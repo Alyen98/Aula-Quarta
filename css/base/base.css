@@ -1,0 +1,18 @@
+:root {
+    --prim-color: #ff5733;
+    --seco-color: #e74c3c;
+    --font: 'Times New Roman', Times, serif;
+    --spacing: 20px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font);
+}
+
+body {
+    background-color: #f8f8f8;
+    color: #333;
+}

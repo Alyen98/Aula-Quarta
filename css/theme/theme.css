@@ -1,0 +1,16 @@
+.l-menu__title {
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: var(--prim-color);
+}
+
+.swiper-slide h3 {
+    font-size: 22px;
+    margin: 15px 0 10px;
+    color: var(--prim-color);
+}
+
+.swiper-slide p {
+    font-size: 16px;
+    color: #666;
+}

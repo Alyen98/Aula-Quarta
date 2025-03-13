@@ -1,0 +1,26 @@
+.l-header {
+    background-color: var(--prim-color);
+    color: white;
+    padding: var(--spacing);
+}
+
+.l-header__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--spacing);
+}
+
+.l-hero {
+    background: url('/assets/hero.png') center/cover no-repeat;
+    text-align: center;
+    padding: 100px var(--spacing);
+    color: var(--prim-color);
+}
+
+.l-menu {
+    padding: 60px var(--spacing);
+    text-align: center;
+}

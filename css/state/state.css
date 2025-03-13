@@ -1,0 +1,7 @@
+.l-header__link:hover {
+    text-decoration: underline;
+}
+
+.l-hero__button:hover {
+    background-color: var(--seco-color);
+}
